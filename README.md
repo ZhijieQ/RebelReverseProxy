@@ -25,5 +25,6 @@ nohup ./ReverseProxy &
 
 After that, open your 8888 port and use that IP.
 http://{yourIP}/1F1A44B7-76D4-4650-A831-B530E59DDD50
+You can also go to https://jrebel.qekang.com/ to get a new one or use http://jrebel_active.longzipeng.online/1F1A44B7-76D4-4650-A831-B530E59DDD50 
 
 One step more, go to help -> JRebel -> Config -> WorkOffline
